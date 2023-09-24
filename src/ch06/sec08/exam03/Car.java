@@ -1,7 +1,7 @@
 package ch06.sec08.exam03;
 
 public class Car {
-	
+
 	//필드 선언
 	int gas;
 	

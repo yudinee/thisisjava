@@ -2,7 +2,8 @@ package ch06.sec08.exam03;
 
 public class CarExample {
 	public static void main(String[] args) {
-		
+
+
 		//Car 객체 생성
 		Car myCar = new Car ();
 		
@@ -16,7 +17,6 @@ public class CarExample {
 			//리턴값이 없는 run()메소드 호출
 			myCar.run();
 		}
-		
 	}
 
 }
