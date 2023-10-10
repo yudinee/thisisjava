@@ -6,6 +6,7 @@ public interface Service {
 	// private 정적메소드는 디폴트 메소드뿐만 아니라 정적메소드 안에서도 호출이 가능하다.
 
 	// 디폴드 메소드
+	/*
 	default void defaultMethod1() {
 		System.out.println("defaultMethod1 종속 코드");
 		defaultCommon();
@@ -38,5 +39,5 @@ public interface Service {
 		System.out.println("staticMethod 중복코드 C");
 		System.out.println("staticMethod 중복코드 D");
 	}
-	
+	*/
 }
