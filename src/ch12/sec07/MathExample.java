@@ -1,4 +1,4 @@
-package ch12.sec06;
+package ch12.sec07;
 /*
  * 절대값
  * 	abs (-5 -> 5, -3.14 -> 3.14)
@@ -15,7 +15,7 @@ package ch12.sec06;
  * 반올림값
  * 	Math.round (5.3 -> 5, 5.7 -> 6)
  */
-public class MathClass {
+public class MathExample {
 
 	public static void main(String[] args) {
 		//Math클래스

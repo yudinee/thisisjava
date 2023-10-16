@@ -1,4 +1,4 @@
-package ch12.sec06;
+package ch12.sec07;
 
 import java.util.Arrays;
 import java.util.Random;
